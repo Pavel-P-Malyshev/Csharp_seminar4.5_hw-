@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Task001_FillReal/1.0.0": {
+        "runtime": {
+          "Task001_FillReal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task001_FillReal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
