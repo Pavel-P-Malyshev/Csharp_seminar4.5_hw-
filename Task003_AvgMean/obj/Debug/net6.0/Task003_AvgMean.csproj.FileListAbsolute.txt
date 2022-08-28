@@ -1,0 +1,15 @@
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5 hw\Task003_AvgMean\obj\Debug\net6.0\Task003_AvgMean.csproj.AssemblyReference.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5 hw\Task003_AvgMean\obj\Debug\net6.0\Task003_AvgMean.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5 hw\Task003_AvgMean\obj\Debug\net6.0\Task003_AvgMean.AssemblyInfoInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5 hw\Task003_AvgMean\obj\Debug\net6.0\Task003_AvgMean.AssemblyInfo.cs
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5 hw\Task003_AvgMean\obj\Debug\net6.0\Task003_AvgMean.csproj.CoreCompileInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5 hw\Task003_AvgMean\bin\Debug\net6.0\Task003_AvgMean.exe
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5 hw\Task003_AvgMean\bin\Debug\net6.0\Task003_AvgMean.deps.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5 hw\Task003_AvgMean\bin\Debug\net6.0\Task003_AvgMean.runtimeconfig.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5 hw\Task003_AvgMean\bin\Debug\net6.0\Task003_AvgMean.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5 hw\Task003_AvgMean\bin\Debug\net6.0\Task003_AvgMean.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5 hw\Task003_AvgMean\obj\Debug\net6.0\Task003_AvgMean.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5 hw\Task003_AvgMean\obj\Debug\net6.0\refint\Task003_AvgMean.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5 hw\Task003_AvgMean\obj\Debug\net6.0\Task003_AvgMean.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5 hw\Task003_AvgMean\obj\Debug\net6.0\Task003_AvgMean.genruntimeconfig.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5 hw\Task003_AvgMean\obj\Debug\net6.0\ref\Task003_AvgMean.dll
